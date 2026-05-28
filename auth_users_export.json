@@ -1,0 +1,359 @@
+{
+  "count": 12,
+  "users": [
+    {
+      "id": "cd638a8c-1d78-4d73-a417-9f2c4d57899a",
+      "email": "jagralasalman786@gmail.com",
+      "encrypted_password": "$2a$10$NPuyv9Ii0Lw5sbqq5qDXjOmFZYRlmudMkYoOUUC/LzvGNybtTR8lC",
+      "email_confirmed_at": "2026-01-13T23:00:25.127Z",
+      "phone": null,
+      "phone_confirmed_at": null,
+      "confirmation_token": "",
+      "recovery_token": "5b2fde81d3bb4a5c70c651d3dc54b619ea16c88679b7280dc97bfbf3",
+      "raw_app_meta_data": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "raw_user_meta_data": {
+        "sub": "cd638a8c-1d78-4d73-a417-9f2c4d57899a",
+        "email": "jagralasalman786@gmail.com",
+        "full_name": "SALMAN JAGRALA ",
+        "email_verified": true,
+        "phone_verified": false
+      },
+      "created_at": "2026-01-13T23:00:25.062Z",
+      "updated_at": "2026-05-03T17:23:37.721Z",
+      "last_sign_in_at": "2026-05-03T17:23:37.647Z",
+      "is_super_admin": null,
+      "role": "authenticated",
+      "aud": "authenticated",
+      "instance_id": "00000000-0000-0000-0000-000000000000",
+      "banned_until": null,
+      "is_sso_user": false
+    },
+    {
+      "id": "18dce20b-bc13-408d-aad0-4b8b725ed597",
+      "email": "staff40417400@pos.internal",
+      "encrypted_password": "$2a$10$eOx8kt3GPwkVukuWaSxk/e5f4oEcDEpioPpU78ZeyY90TNWdmo/Xe",
+      "email_confirmed_at": "2026-02-15T15:11:11.202Z",
+      "phone": null,
+      "phone_confirmed_at": null,
+      "confirmation_token": "",
+      "recovery_token": "",
+      "raw_app_meta_data": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "raw_user_meta_data": {
+        "full_name": "test_staff_pgcrypto",
+        "email_verified": true
+      },
+      "created_at": "2026-02-15T15:11:11.183Z",
+      "updated_at": "2026-02-15T15:11:11.203Z",
+      "last_sign_in_at": null,
+      "is_super_admin": null,
+      "role": "authenticated",
+      "aud": "authenticated",
+      "instance_id": "00000000-0000-0000-0000-000000000000",
+      "banned_until": null,
+      "is_sso_user": false
+    },
+    {
+      "id": "1376c48b-3a9e-45ac-9c4f-e8965d520f97",
+      "email": "staff30359167@pos.internal",
+      "encrypted_password": "$2a$10$SqjG4mE288sxkQz0vY.h7u9n2Yvk0ZjCLYl/HOogC7QTfhMbaftJG",
+      "email_confirmed_at": "2026-02-27T00:49:40.384Z",
+      "phone": null,
+      "phone_confirmed_at": null,
+      "confirmation_token": "",
+      "recovery_token": "",
+      "raw_app_meta_data": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "raw_user_meta_data": {
+        "full_name": "Salman rizwan jagrala",
+        "email_verified": true
+      },
+      "created_at": "2026-02-27T00:49:40.353Z",
+      "updated_at": "2026-02-27T00:50:00.627Z",
+      "last_sign_in_at": "2026-02-27T00:50:00.622Z",
+      "is_super_admin": null,
+      "role": "authenticated",
+      "aud": "authenticated",
+      "instance_id": "00000000-0000-0000-0000-000000000000",
+      "banned_until": null,
+      "is_sso_user": false
+    },
+    {
+      "id": "f99f4847-b6fc-4d40-9a15-1ca8a7cceaf0",
+      "email": "sohail@gmail.com",
+      "encrypted_password": "$2a$10$n7BsRTUA357DgtWFL0w9NeYzp8..HXjW5jvTgS7hyCjWEpYQxwC9a",
+      "email_confirmed_at": "2026-03-27T21:44:18.561Z",
+      "phone": null,
+      "phone_confirmed_at": null,
+      "confirmation_token": "",
+      "recovery_token": "",
+      "raw_app_meta_data": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "raw_user_meta_data": {
+        "full_name": "sohail khan ",
+        "email_verified": true
+      },
+      "created_at": "2026-03-27T21:44:18.530Z",
+      "updated_at": "2026-04-01T03:27:59.304Z",
+      "last_sign_in_at": "2026-04-01T03:27:59.264Z",
+      "is_super_admin": null,
+      "role": "authenticated",
+      "aud": "authenticated",
+      "instance_id": "00000000-0000-0000-0000-000000000000",
+      "banned_until": null,
+      "is_sso_user": false
+    },
+    {
+      "id": "412c98e4-67fe-4660-8a14-d42fa5c5c1ac",
+      "email": "pos@gmail.com",
+      "encrypted_password": "$2a$10$JMiVpEzmJYg9w6wj.NDjPua3RLAP2nMrATrsT/0jFWHgISjY5lyPC",
+      "email_confirmed_at": "2026-04-01T03:29:51.661Z",
+      "phone": null,
+      "phone_confirmed_at": null,
+      "confirmation_token": "",
+      "recovery_token": "",
+      "raw_app_meta_data": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "raw_user_meta_data": {
+        "full_name": "Salman jagrala ",
+        "email_verified": true
+      },
+      "created_at": "2026-04-01T03:29:51.639Z",
+      "updated_at": "2026-04-08T02:39:27.818Z",
+      "last_sign_in_at": "2026-04-08T02:39:27.813Z",
+      "is_super_admin": null,
+      "role": "authenticated",
+      "aud": "authenticated",
+      "instance_id": "00000000-0000-0000-0000-000000000000",
+      "banned_until": null,
+      "is_sso_user": false
+    },
+    {
+      "id": "591dbe3a-556d-4813-b2e7-4f13fa431002",
+      "email": "amin@gmail.com",
+      "encrypted_password": "$2a$10$pUlJZh0ZwHSQD7AAnxclP.znhvGyzIwPuvO7OwTcTBLdFeqUNzi6y",
+      "email_confirmed_at": "2026-04-01T03:39:14.719Z",
+      "phone": null,
+      "phone_confirmed_at": null,
+      "confirmation_token": "",
+      "recovery_token": "",
+      "raw_app_meta_data": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "raw_user_meta_data": {
+        "full_name": "Amim",
+        "email_verified": true
+      },
+      "created_at": "2026-04-01T03:39:14.688Z",
+      "updated_at": "2026-04-08T02:40:33.549Z",
+      "last_sign_in_at": "2026-04-08T02:40:33.486Z",
+      "is_super_admin": null,
+      "role": "authenticated",
+      "aud": "authenticated",
+      "instance_id": "00000000-0000-0000-0000-000000000000",
+      "banned_until": null,
+      "is_sso_user": false
+    },
+    {
+      "id": "d1fe1f44-b74a-40f8-b099-f380b692bcee",
+      "email": "sa@gmail.com",
+      "encrypted_password": "$2a$10$NYP8FrBvCZYq8hvoV1DLdOqW4FF0G.A26r13Mc/5RoifO/KMbQZHG",
+      "email_confirmed_at": "2026-04-01T04:03:55.137Z",
+      "phone": null,
+      "phone_confirmed_at": null,
+      "confirmation_token": "",
+      "recovery_token": "",
+      "raw_app_meta_data": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "raw_user_meta_data": {
+        "full_name": "salman",
+        "email_verified": true
+      },
+      "created_at": "2026-04-01T04:03:55.103Z",
+      "updated_at": "2026-04-19T12:59:30.178Z",
+      "last_sign_in_at": "2026-04-19T12:59:30.176Z",
+      "is_super_admin": null,
+      "role": "authenticated",
+      "aud": "authenticated",
+      "instance_id": "00000000-0000-0000-0000-000000000000",
+      "banned_until": null,
+      "is_sso_user": false
+    },
+    {
+      "id": "b70a7035-70f6-43c0-b053-c985544b3d2d",
+      "email": "wasim@gmail.com",
+      "encrypted_password": "$2a$10$NC9oADP.FABLhhoGGR2sKO4oW0m8TcXVfWWzLpklrEIInMOiMrz.O",
+      "email_confirmed_at": "2026-04-05T10:00:06.882Z",
+      "phone": null,
+      "phone_confirmed_at": null,
+      "confirmation_token": "",
+      "recovery_token": "",
+      "raw_app_meta_data": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "raw_user_meta_data": {
+        "sub": "b70a7035-70f6-43c0-b053-c985544b3d2d",
+        "email": "wasim@gmail.com",
+        "full_name": "wasim",
+        "email_verified": true,
+        "phone_verified": false
+      },
+      "created_at": "2026-04-05T10:00:06.788Z",
+      "updated_at": "2026-04-19T12:53:18.503Z",
+      "last_sign_in_at": "2026-04-05T10:00:06.910Z",
+      "is_super_admin": null,
+      "role": "authenticated",
+      "aud": "authenticated",
+      "instance_id": "00000000-0000-0000-0000-000000000000",
+      "banned_until": null,
+      "is_sso_user": false
+    },
+    {
+      "id": "f26abde5-3238-4bdc-b8fd-7e5d8506d028",
+      "email": "o@gmail.com",
+      "encrypted_password": "$2a$10$YOJ4M4PkBjAISTe1kFh33uKfXODOJvu1xYSltE/hN/hD1E2EsCcJu",
+      "email_confirmed_at": "2026-04-08T21:14:36.363Z",
+      "phone": null,
+      "phone_confirmed_at": null,
+      "confirmation_token": "",
+      "recovery_token": "",
+      "raw_app_meta_data": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "raw_user_meta_data": {
+        "full_name": "sohail",
+        "email_verified": true
+      },
+      "created_at": "2026-04-08T21:14:36.340Z",
+      "updated_at": "2026-04-08T21:14:53.368Z",
+      "last_sign_in_at": "2026-04-08T21:14:53.363Z",
+      "is_super_admin": null,
+      "role": "authenticated",
+      "aud": "authenticated",
+      "instance_id": "00000000-0000-0000-0000-000000000000",
+      "banned_until": null,
+      "is_sso_user": false
+    },
+    {
+      "id": "e21f6868-86ce-4e16-a383-abdbf609967a",
+      "email": "soihal@gmail.com",
+      "encrypted_password": "$2a$10$aDCBfa3K38VCbFsz8xBOoObMb3rqJGpeu08tQU8UbkoPynBTdnQnS",
+      "email_confirmed_at": "2026-05-03T17:25:13.425Z",
+      "phone": null,
+      "phone_confirmed_at": null,
+      "confirmation_token": "",
+      "recovery_token": "",
+      "raw_app_meta_data": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "raw_user_meta_data": {
+        "full_name": "SOHAIL",
+        "email_verified": true
+      },
+      "created_at": "2026-05-03T17:25:13.402Z",
+      "updated_at": "2026-05-03T17:38:14.360Z",
+      "last_sign_in_at": "2026-05-03T17:38:14.250Z",
+      "is_super_admin": null,
+      "role": "authenticated",
+      "aud": "authenticated",
+      "instance_id": "00000000-0000-0000-0000-000000000000",
+      "banned_until": null,
+      "is_sso_user": false
+    },
+    {
+      "id": "da6b914e-8fff-4216-8ba9-0d7a35778c89",
+      "email": "golden@gmail.com",
+      "encrypted_password": "$2a$10$Lwz6OKyFIslHzQ.RUSDpg.Q/aLYr9JHwyMOcYMSp5WLP.wNvYTBDW",
+      "email_confirmed_at": "2026-05-03T17:36:45.248Z",
+      "phone": null,
+      "phone_confirmed_at": null,
+      "confirmation_token": "",
+      "recovery_token": "",
+      "raw_app_meta_data": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "raw_user_meta_data": {
+        "full_name": "Golden Desserts & More",
+        "email_verified": true
+      },
+      "created_at": "2026-05-03T17:36:45.192Z",
+      "updated_at": "2026-05-12T02:25:24.223Z",
+      "last_sign_in_at": "2026-05-12T01:26:09.199Z",
+      "is_super_admin": null,
+      "role": "authenticated",
+      "aud": "authenticated",
+      "instance_id": "00000000-0000-0000-0000-000000000000",
+      "banned_until": null,
+      "is_sso_user": false
+    },
+    {
+      "id": "fb98c9f0-ac48-42dd-a65b-a86274ef756b",
+      "email": "salman@gmail.com",
+      "encrypted_password": "$2a$10$dqijkNx6F81/lZITHJt1BejvRfBc74MbMD7Zk/5HDGwjAHwgj.u7u",
+      "email_confirmed_at": "2026-05-08T02:05:00.291Z",
+      "phone": null,
+      "phone_confirmed_at": null,
+      "confirmation_token": "",
+      "recovery_token": "",
+      "raw_app_meta_data": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "raw_user_meta_data": {
+        "full_name": "salman",
+        "email_verified": true
+      },
+      "created_at": "2026-05-08T02:05:00.261Z",
+      "updated_at": "2026-05-11T23:04:57.959Z",
+      "last_sign_in_at": "2026-05-11T20:07:50.077Z",
+      "is_super_admin": null,
+      "role": "authenticated",
+      "aud": "authenticated",
+      "instance_id": "00000000-0000-0000-0000-000000000000",
+      "banned_until": null,
+      "is_sso_user": false
+    }
+  ]
+}

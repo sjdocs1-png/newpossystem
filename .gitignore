@@ -1,0 +1,6 @@
+# Ignore local dependencies and build artifacts
+node_modules
+
+# Ignore output/release artifacts from Electron builds
+paystore-pos-main/release/
+paystore-pos-main/node_modules/
